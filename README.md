@@ -5,13 +5,16 @@ Dwi Krisna Tantra
 Universitas Kristen Petra
 peserta MSIB gits.id
 
-![dropdwon categories](https://user-images.githubusercontent.com/113964786/226803070-56e8801a-fa63-4838-b93c-c9330102a5c2.png)
-![fitur add products](https://user-images.githubusercontent.com/113964786/226803081-58cda07b-3f94-4f87-839f-57d10f50ad3a.png)
-![fiturAddCategories](https://user-images.githubusercontent.com/113964786/226803083-31c92031-cfa7-45ae-833c-ae9b021729f9.png)
-![fiturCarts](https://user-images.githubusercontent.com/113964786/226803085-7b35f007-2a3e-470e-90cd-3aae9361840f.png)
-![fiturViewProductsCRUD](https://user-images.githubusercontent.com/113964786/226803086-7b1d6a2e-3f31-4a34-8916-0ec40f023f18.png)
-![Screenshot_1](https://user-images.githubusercontent.com/113964786/226803094-a7849e08-5e99-493d-92d0-0b23c3305f30.png)
-![Screenshot_2](https://user-images.githubusercontent.com/113964786/226803112-c7818327-ad37-4478-91d2-74c3581d9cfb.png)
-![Screenshot_14](https://user-images.githubusercontent.com/113964786/226803128-117459fe-44ad-4ce3-89de-d78dc64d83d9.png)
 
 
+
+![fiturPrompt](https://user-images.githubusercontent.com/113964786/226812918-7561fd7e-ce4f-4c17-9aae-980c76824cde.png)
+![fiturTidakAdaTest](https://user-images.githubusercontent.com/113964786/226812925-5a8fd406-af7f-46f0-aea6-2c05f86dd1e4.png)
+![halamanStore](https://user-images.githubusercontent.com/113964786/226812947-e72a1456-2b90-4dff-ba20-79439c8c1905.png)
+![halamanToko](https://user-images.githubusercontent.com/113964786/226812980-10a75110-6ff5-4ed8-9786-8e1dd033495e.png)
+![Screenshot_1](https://user-images.githubusercontent.com/113964786/226812985-f3a49c51-a5a5-4f6f-b9ee-4b5829c75e7c.png)
+![fiturAddCategories](https://user-images.githubusercontent.com/113964786/226812994-7f5b7adb-fa7b-47f9-a89d-1646198bb5ef.png)
+![fiturAddToCart](https://user-images.githubusercontent.com/113964786/226813001-f821ed77-02ef-4101-95ad-f18aa6f8487d.png)
+![fiturCreateProducts](https://user-images.githubusercontent.com/113964786/226813008-8fe4a1f6-0863-4d33-97f9-f03196c5f88c.png)
+![fiturCRUDViewProducts](https://user-images.githubusercontent.com/113964786/226813010-af133cbb-2587-4d44-b63b-fbd6e042baa5.png)
+![fiturDeleteCategory](https://user-images.githubusercontent.com/113964786/226813034-badf0c21-03f7-423e-8511-3fdae30fdf51.png)
