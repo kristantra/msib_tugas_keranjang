@@ -6,6 +6,7 @@ Universitas Kristen Petra
 peserta MSIB gits.id
 
 
+![db tugas](https://user-images.githubusercontent.com/113964786/226835818-4852e10d-1e7c-4506-9d5c-d8e0ab4ef09b.png)
 
 
 ![fiturPrompt](https://user-images.githubusercontent.com/113964786/226812918-7561fd7e-ce4f-4c17-9aae-980c76824cde.png)
