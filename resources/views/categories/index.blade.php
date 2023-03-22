@@ -7,8 +7,9 @@
         <div class="col-md-6">
             <h1>Categories</h1>
         </div>
+        
         <div class="col-md-6">
-            <form action="{{ route('categories.index') }}" method="get">
+            <form action="{{ route('categories.index') }}" method="get" class="d-inline">
                 <div class="input-group">
                     <select class="form-select" name="category_id" onchange="this.form.submit()">
                         <option value="">Select a category</option>
@@ -18,6 +19,13 @@
                     </select>
                 </div>
             </form>
+            @if (request('category_id'))
+                <form action="{{ route('categories.destroy', request('category_id')) }}" method="POST" class="d-inline" onsubmit="return confirm('Are you sure you want to delete this category? This will also delete all related products.');">
+                    @csrf
+                    @method('DELETE')
+                    <button type="submit" class="btn btn-danger">Delete Category</button>
+                </form>
+            @endif
         </div>
     </div>
 
